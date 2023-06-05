@@ -1,0 +1,6 @@
+build/
+pam_landlock.so
+pam_landlock_executable
+tags
+.*.swp
+.*.swo
